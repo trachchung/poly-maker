@@ -1,6 +1,6 @@
 py-clob-client==0.25.0
-python-dotenv
-pandas
+python-dotenv===0.19.2
+pandas===2.3.2
 gspread
 gspread-dataframe
 sortedcontainers

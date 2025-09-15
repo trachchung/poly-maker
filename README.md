@@ -35,6 +35,8 @@ Start a new virtual environment:
 
 ```
 uv venv
+uv pip install -r requirements.txt
+uv run python update_markets.py
 ```
 
 1. **Clone the repository**:
